@@ -1,5 +1,5 @@
 # fatura-pdf-excel
-Ferramenta que converte localmente fatura do cartão do banco Santander de pdf para Excel.
+Ferramenta que converte localmente fatura do cartão do banco Santander de pdf para Excel. 
 
 # Fatura PDF → EXCEL
 
