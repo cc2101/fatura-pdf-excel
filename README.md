@@ -296,6 +296,12 @@ Em termos práticos, isso significa:
 
 A ideia é que o código deve ser possível de encontrar, entender, executar, reutilizar e adaptar. Use essa recomendação nos seus projetos! :)
 
+## DOI
+
+A versão `v1.0.0` deste software está arquivada no Zenodo.
+
+DOI: 10.5281/zenodo.22755584
+
 ## Licença
 
 Este projeto é distribuído sob a licença MIT.
