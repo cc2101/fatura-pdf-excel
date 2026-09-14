@@ -216,3 +216,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Financial data — never commit
+*.pdf
+*.xlsx
+*.xls
+*.csv
+*.log
+
+# Secrets / local configuration
+.env
+.env.*
+*.key
+*.pem
