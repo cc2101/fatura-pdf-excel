@@ -1,0 +1,22 @@
+{
+  "title": "Fatura PDF to EXCEL",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "creators": [
+    {
+      "name": "cc2101 project contributors"
+    }
+  ],
+  "description": "Este é um pequeno script em Python para converter faturas de cartão de crédito do Banco Santander em PDF para uma planilha Excel. O processamento é realizado localmente e o repositório não contém dados financeiros reais.",
+  "access_right": "open",
+  "license": "mit",
+  "keywords": [
+    "PDF",
+    "XLSX",
+    "Python",
+    "Santander",
+    "fatura de cartão de crédito",
+    "extração de dados",
+    "dados financeiros"
+  ]
+}
