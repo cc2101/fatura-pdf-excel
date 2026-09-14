@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Fatura PDF para Excel"
+type: software
+authors:
+    name: "cc2101"
+version: 1.0.0
+date-released: 2026-09-14
+repository-code: "https://github.com/cc2101/fatura-pdf-excel"
+license: MIT
+keywords:
+  - PDF
+  - XLSX
+  - SANTANDER credit card statement
+  - financial data
+  - data extraction
+  - Python
